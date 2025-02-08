@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=stockmate
+POSTGRES_USER=MJUJEtHXkfATvkKYVVgtKirOYWLmTVXT
+POSTGRES_PASSWORD=lZKLR5d93aP19lZRD0MpgnYaaHF7wmn4G0WrFe6XRX1bPqCL47fEldz03DvBs9qY
